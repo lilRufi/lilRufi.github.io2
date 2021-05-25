@@ -11,7 +11,7 @@
       "id": "chaiinn-1.12.2",
       "name": "Chaiinn (Minecraft 1.12.2)",
       "description": "Chaiinn Running Minecraft 1.12.2 (Forge v14.23.5.2847)",
-      "icon": "https://lilrufi.github.io/assets/logo.png",
+      "icon": null,
       "version": "1.0.0",
       "address": "mine.chaiinn.com",
       "minecraftVersion": "1.12.2",
@@ -1897,28 +1897,6 @@
             "url": "https://lilrufi.github.io/servers/chaiinn-1.12.2/files/config/Building%20Gadgets.cfg",
             "MD5": "09df48061396103850fb0ffc8f291215",
             "path": "config/Building Gadgets.cfg"
-          }
-        },
-        {
-          "id": "CustomSounds-Resourcepack.zip",
-          "name": "CustomSounds-Resourcepack.zip",
-          "type": "File",
-          "artifact": {
-            "size": 588,
-            "url": "https://lilrufi.github.io/servers/chaiinn-1.12.2/files/config/ChanceCubes/CustomRewards/CustomSounds-Resourcepack.zip",
-            "MD5": "d4074d69acae13ae440353e3c35fba8d",
-            "path": "config/ChanceCubes/CustomRewards/CustomSounds-Resourcepack.zip"
-          }
-        },
-        {
-          "id": "CustomSounds-Resourcepack.zip",
-          "name": "CustomSounds-Resourcepack.zip",
-          "type": "File",
-          "artifact": {
-            "size": 588,
-            "url": "https://lilrufi.github.io/servers/chaiinn-1.12.2/files/config/ChanceCubes/CustomRewards/Resourcepack/CustomSounds-Resourcepack.zip",
-            "MD5": "0bb04f8bb4d8429765d48c05190c17b6",
-            "path": "config/ChanceCubes/CustomRewards/Resourcepack/CustomSounds-Resourcepack.zip"
           }
         },
         {
