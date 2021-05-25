@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: -1.0d,
+	dependencies: [
+		"01c57f91"
+	],
+	tasks: [{
+		uid: "4ddf408a",
+		type: "item",
+		items: [{
+			item: "tropicraft:ore 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "0d91d9ff",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

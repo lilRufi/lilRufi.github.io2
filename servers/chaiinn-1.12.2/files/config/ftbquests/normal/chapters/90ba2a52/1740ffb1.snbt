@@ -1,0 +1,23 @@
+{
+	x: 11.0d,
+	y: 0.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "ddafbc5b",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:storage 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "afde1e27",
+		type: "item",
+		item: "chancecubes:chance_cube",
+		random_bonus: 1
+	},
+	{
+		uid: "562b21c8",
+		type: "ftbmoney:money",
+		ftb_money: 70L
+	}]
+}
